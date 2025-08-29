@@ -1,0 +1,6 @@
+com/bajajfinserv/qualifier/dto/SolutionRequest.class
+com/bajajfinserv/qualifier/config/AppConfig.class
+com/bajajfinserv/qualifier/dto/WebhookResponse.class
+com/bajajfinserv/qualifier/QualifierTestApplication.class
+com/bajajfinserv/qualifier/service/QualifierService.class
+com/bajajfinserv/qualifier/dto/WebhookRequest.class
